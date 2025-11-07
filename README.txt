@@ -1,0 +1,1 @@
+This is a typical READ ME file in txt format
